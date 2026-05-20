@@ -1,4 +1,4 @@
-For highlighted projects, **see pins** below.
+For highlighted projects with source, **see pins** below.
 
 Closed source projects include:
 
