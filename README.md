@@ -7,7 +7,7 @@ Other projects include:
 
 Recent open source contributions include:
 
-* https://github.com/dottxt-ai/outlines/pull/1823
+* https://github.com/dottxt-ai/outlines/pull/1823 | See in [prod](https://dottxt-ai.github.io/outlines/main/features/core/exceptions/)
 * https://github.com/vercel/chatbot/pull/1296
 * https://github.com/ml-explore/mlx/pull/1280
 
